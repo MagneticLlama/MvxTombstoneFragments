@@ -1,3 +1,7 @@
+## Update: 7/18/2023
+**MvvmCross 9.10 fixes this issue**
+
+
 # MvxTombstoneFragments
 Demonstrates that Android fragments cannot recover from tombstoning in MvvmCross
 
